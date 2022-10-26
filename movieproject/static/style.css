@@ -1,0 +1,8 @@
+body{
+    background-color:black;
+}
+div.card-margin{
+    margin-left:50px;
+    margin-bottom:20px;
+    margin-top:20px;
+}
